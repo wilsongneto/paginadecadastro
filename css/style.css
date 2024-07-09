@@ -24,9 +24,9 @@
 /*ADDRESS CONTAINER*/
 
 #address-container {
-    background-image: url('../img/project_bg.jpg');
+    background-image: url('../img/robot-inter.webp');
     background-size: cover;
-    background-position-x: -130px;
+    /*background-position-x: -130px;*/
     color: #fff;
     position: relative;
 }
